@@ -1,0 +1,15 @@
+Continuing assignment 2& Here, let’s create a new file named index&js and use the fs module to read the
+content of nodejs_architecture&txt and print the content to the console
+
+{
+    "name": "01",
+    "version": "1.0.0",
+    "description": "This is my First Assignment on Fundamentals of NodeJS.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  

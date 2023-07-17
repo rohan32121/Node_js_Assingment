@@ -1,0 +1,16 @@
+In the same project directory created in the above assignment, your task is to create a new file index&js and
+using the fs module add information about Node&js architecture to a new file nodejs_architecture&txt& Below
+are the expected files in the project folder
+
+{
+    "name": "01",
+    "version": "1.0.0",
+    "description": "This is my First Assignment on Fundamentals of NodeJS.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
